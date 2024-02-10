@@ -49,8 +49,8 @@ params:
           title: John (Joe) Shanahan
           subtitle: "I am a second-year student at UNC Chapel Hill from Raleigh NC, pursuing a double major in Computer Science and Statistics & Analytics. This past summer I had the privilege to work at Modern Capital Inc. as a Quantitative Developer Intern. I'm currently a ULA for COMP 211 and am conducting ML research with applications to Biology."
           imageUrl: "picture.jpeg"
-          imageWidth: 773
-          imageHeight: 773
+          imageWidth: 400
+          imageHeight: 400
           imageTitle: John (Joe) Shanahan
           buttons:
             - name: Papers
