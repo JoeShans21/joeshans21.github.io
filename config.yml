@@ -59,6 +59,8 @@ params:
               #url: courses/
             #- name: Data
               #url: data/
+            - name: Education
+              url: education/
             - name: Tags
               url: tags/
             - name: Archive
