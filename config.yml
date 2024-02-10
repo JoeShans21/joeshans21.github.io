@@ -47,18 +47,18 @@ params:
     profileMode:
           enabled: true
           title: John (Joe) Shanahan
-          subtitle: "I am a second-year student at UNC Chapel Hill from Raleigh NC, pursuing a double major in Computer Science and Statistics & Analytics. This past summer I had the privilege to work at Modern Capital Inc. as a Quantitative Developer Intern. I'm currently a ULA for COMP 211 and am conducting ML research with applications to Biology."
+          subtitle: "As a second-year student at UNC Chapel Hill, originally from Raleigh NC, I'm pursuing a dual major in Computer Science and Statistics & Analytics. Last summer, I interned as a Quantitative Developer at Modern Capital Inc. Currently, I'm assisting as a ULA for COMP 211 and am actively engaged in ML research with applications to Biology. This upcoming summer, I plan to take a Computer Organization course abroad in Copenhagen, Denmark."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: John (Joe) Shanahan
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
+            #- name: Papers
+              #url: papers/
+            #- name: Courses
+              #url: courses/
+            #- name: Data
+              #url: data/
             - name: Tags
               url: tags/
             - name: Archive
@@ -68,10 +68,10 @@ params:
           url: https://docs.google.com/document/d/1cgA-5yIUEHT75mBz9upcN2iuSRAs1X0MDi7dsv1mFLA/edit
         - name: Email
           url: mailto:jshans@unc.edu
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+        #- name: Location
+          #url: location/
+        #- name: Office Hours
+          #url: officehours/
         - name: GitHub
           url: https://github.com/JoeShans21
         - name: LinkedIn
