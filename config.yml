@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://joeshans21.github.io/" 
+title: John (Joe) Shanahan
 paginate: 20
 theme: PaperMod
 
@@ -20,13 +20,9 @@ menu:
         - name: Data
           url: data/
           weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I am a second-year student at UNC Chapel Hill from Raleigh NC, pursuing a double major in Computer Science and Statistics & Analytics. This past summer I had the privilege to at Modern Capital Inc. as a Quantitative Developer Intern. I'm currently a ULA for COMP 211 and am conducting ML research with applications to Biology."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -50,12 +46,12 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: John (Joe) Shanahan
+          subtitle: "I am a second-year student at UNC Chapel Hill from Raleigh NC, pursuing a double major in Computer Science and Statistics & Analytics. This past summer I had the privilege to at Modern Capital Inc. as a Quantitative Developer Intern. I'm currently a ULA for COMP 211 and am conducting ML research with applications to Biology."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: John (Joe) Shanahan
           buttons:
             - name: Papers
               url: papers/
@@ -63,8 +59,6 @@ consequat."
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
@@ -73,21 +67,15 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:jshans@unc.edu
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/JoeShans21
+        - name: LinkedIn
+          url: https://linkedin.com/in/johnshans/
 
     assets:
         disableHLJS: true
@@ -96,7 +84,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "John (Joe) Shanahan"
       icon: favicon.ico
       iconHeight: 18
 
