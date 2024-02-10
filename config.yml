@@ -65,7 +65,7 @@ params:
               url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://docs.google.com/document/d/1cgA-5yIUEHT75mBz9upcN2iuSRAs1X0MDi7dsv1mFLA/edit
         - name: Email
           url: mailto:jshans@unc.edu
         - name: Location
